@@ -1,0 +1,6 @@
+# dashboard
+hystrix:
+  dashboard:
+    proxy-stream-allow-list: localhost
+server:
+  port: 9000
